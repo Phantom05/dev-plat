@@ -42,11 +42,19 @@ npm i gulp-concat gulp-uglify gulp-minify-html gulp-sass gulp-babel gulp-imagemi
 ```javascript
 git clone or Download https://github.com/FrontPublisher-WeekStudy/refo
 
-$ npm install
+File creation
 
-$ npm i gulp-concat gulp-uglify gulp-minify-html gulp-sass gulp-babel gulp-imagemin gulp-uglifycss gulp-livereload gulp-rename gulp-gutil gulp-watch gulp-webserver -D
+$ cd yourfile
 
-$ cd pulic
+$ npm init
+
+npm i -D gulp
+
+$ npm i gulp-concat gulp-uglify gulp-minify-html gulp-sass gulp-babel gulp-imagemin gulp-uglifycss gulp-livereload gulp-rename gulp-watch gulp-webserver -D
+
+//Edit Files
+$ gulp
+
 ```
 
 ## API Reference

@@ -1,10 +1,10 @@
-
-
-## [Gulp Platform][0]
-[0]:https://github.com/Phantom05/dev-plat/tree/master/gulp
-
 # Developement Platform
 I have made the **build system** that NPM uses as a platform.
+
+
+## Developement Structure List
++ ### [Gulp Platform][0]
+[0]:https://github.com/Phantom05/dev-plat/tree/master/gulp
 
 ## Motivation
 Every time I use it, it takes too long and I made it easy to download and use it immediately.
