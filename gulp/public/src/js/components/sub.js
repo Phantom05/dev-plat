@@ -1,0 +1,1 @@
+const TEST2 = (x)=>x*5;
