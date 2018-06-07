@@ -43,12 +43,12 @@ If people like your project they’ll want to learn how they can use it. To do s
 
 ## Contribute
 
-[phantom05](https://github.com/Phantom05)
+[Phantom05](https://github.com/Phantom05)
 
 #### Anything else that seems useful
 
 ## License
 A short snippet describing the license (MIT, Apache etc)
 
-MIT © [Yourname]()
+MIT © [Phantom05](https://github.com/Phantom05)
 

@@ -20,7 +20,7 @@ IDE or Editor Download
 Ex.- npm
 ### Built with
 ```
-npm i gulp-concat gulp-uglify gulp-minify-html gulp-sass gulp-babel gulp-imagemin gulp-uglifycss gulp-livereload gulp-rename gulp-gutil gulp-watch gulp-webserver babel-core babel-preset-env gulp-rename -D
+npm i gulp-concat gulp-uglify gulp-minify-html gulp-sass gulp-babel gulp-imagemin gulp-uglifycss gulp-livereload gulp-rename gulp-watch gulp-webserver babel-core babel-preset-env gulp-rename -D
 ```
 
 ## Features
